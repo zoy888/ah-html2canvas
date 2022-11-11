@@ -1,6 +1,6 @@
 {
   "name": "ah-html2canvas",
-  "version": "1.4.1@beta",
+  "version": "1.4.2",
   "description": "Screenshots with JavaScript",
   "main": "dist/ah-html2canvas.js",
   "repository": {
