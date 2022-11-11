@@ -1,0 +1,14 @@
+{
+  "name": "ah-html2canvas",
+  "version": "1.4.1",
+  "description": "Screenshots with JavaScript",
+  "main": "dist/ah-html2canvas.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zoy888/ah-html2canvas"
+  },
+  "author": "mushuangpeng <252357532@qq.com>",
+  "dependencies": {},
+  "devDependencies": {},
+  "license": "AH"
+}
